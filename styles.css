@@ -1,0 +1,109 @@
+
+.head {
+    background-size: cover;
+    width: fit-content;
+    border: grey;
+}
+
+.con6 {
+    text-align: center;
+    background-color: rgb(121, 93, 93);
+    height: 25px;
+    border: grey;
+}
+.con7 {
+    text-align: center;
+    background-color: rgb(121, 93, 93);
+    height: 25px;
+}
+
+.con1{
+    text-align: center;
+    
+}
+a{
+    text-decoration: hotpink;
+}
+
+.con2{
+    width: 500px;
+    margin: auto;
+}
+    a{
+    text-decoration: none;
+}
+    
+
+input{
+        width: 350px;
+        height: 40px;
+        border-radius: 7px;
+}
+        body{
+        border: 0.5px solid grey;
+        width: 450px;
+        height: 350px;
+        margin: auto;
+        margin-top: 35px;
+}
+
+.con3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 500px;
+    margin: auto;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.con5{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 150px;
+}
+    
+.con4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: center;
+}
+
+
+
+button{
+    margin-right: auto;
+    color: white;
+    background: green;
+    border-radius: 5px;
+    width: 450px;
+    height: 40px;
+}
+
+button a{
+    color: white;
+}
+
+.con6 {
+    scroll-padding-block-end: auto;
+    margin-top: 2px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
